@@ -1,0 +1,1 @@
+[Cheat Sheets](https://digitalcloud.training/category/aws-cheat-sheets/aws-cloud-practitioner/)
