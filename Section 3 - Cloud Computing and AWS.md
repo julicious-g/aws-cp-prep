@@ -72,8 +72,8 @@ TODO : add this
 3. Stop guessing capacity. You can use any services first and adjust it based on what you really need.
 4. Increase speed and agility. 
 
-Speed = deploy resources easily and quickly
-Agility = react to chages; speed to market
+>Speed = deploy resources easily and quickly
+>Agility = react to chages; speed to market
 
 5. stop spending money on maintaining data centers
 
